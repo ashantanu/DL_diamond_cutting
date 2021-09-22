@@ -1,5 +1,6 @@
 # DL_diamond_cutting
 UMass CMPSCI 674 Project
+Follow this [link](https://docs.google.com/presentation/d/1oV5ocpJG5IEbF6Ms_ihx6YWLpn1TNir-kKmlvmJg-x8/edit#slide=id.p) for the presentation. 
 
 ## Dataset Creation
 Done using Blender. Python Automation for these steps:
